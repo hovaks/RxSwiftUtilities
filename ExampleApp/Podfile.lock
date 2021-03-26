@@ -1,13 +1,13 @@
 PODS:
-  - RxCocoa (5.1.1):
-    - RxRelay (~> 5)
-    - RxSwift (~> 5)
-  - RxRelay (5.1.1):
-    - RxSwift (~> 5)
-  - RxSwift (5.1.1)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
   - RxSwiftUtilities (2.2.0):
-    - RxCocoa (~> 5.1)
-    - RxSwift (~> 5.1)
+    - RxCocoa (~> 6.1)
+    - RxSwift (~> 6.1)
 
 DEPENDENCIES:
   - RxSwiftUtilities (from `../`)
@@ -23,11 +23,11 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
-  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
-  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
-  RxSwiftUtilities: 891ab1aefae2d3d5669ed6281efd1da20ae31ff6
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  RxSwiftUtilities: 6d94e424e48d1a9f5e647eb61f590c76bb91790f
 
 PODFILE CHECKSUM: 76bf4791be77375ab3f65b32b122237d1e9eaf79
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.10.1
